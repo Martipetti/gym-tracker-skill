@@ -129,7 +129,7 @@ The generated Excel includes up to 5 sheets depending on your selections:
 
 Built by **Martino**: [@neuralcoffe](https://instagram.com/neuralcoffe) on Instagram.
 
-Every week: one concrete AI skill or tool you can use the next day — not theory, not hype.
+Every week: one concrete AI skill or tool you can use the next day, not theory, not hype.
 
 ---
 
