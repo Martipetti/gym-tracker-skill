@@ -149,5 +149,5 @@ Every week: one concrete AI skill or tool you can use the next day — not theor
 ---
 
 <div align="center">
-  <sub>Made with Claude · Open to contributions · Share freely</sub>
+  <sub>Open to contributions · Share freely</sub>
 </div>
