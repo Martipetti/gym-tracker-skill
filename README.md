@@ -4,7 +4,7 @@
   <h1>gym-tracker</h1>
 
   <p>
-    An AI skill that turns your chaotic workout notes into a structured, auto-calculating Excel tracker — in under 2 minutes.
+    An AI skill that turns your chaotic workout notes into a structured, auto-calculating Excel tracker, in under 2 minutes.
   </p>
 
   <p>
@@ -19,14 +19,14 @@
 
 ## What it does
 
-You tell the AI your workout program — days, exercises, sets and reps. The skill asks you a few questions and generates a complete, ready-to-use Excel file with:
+You tell the AI your workout program, days, exercises, sets and reps. The skill asks you a few questions and generates a complete, ready-to-use Excel file with:
 
-- **Workout log** — sets, reps and weight for every exercise, every session
-- **Automatic 1RM estimation** — Epley formula applied in real time
-- **Load progression tracker** — session by session, per exercise
-- **Volume per session** — total tonnage with rolling 3-session average
-- **Personal Records log** — auto-calculated estimated 1RM for each PR
-- **Progress charts** — visual load trend over time
+- **Workout log**: sets, reps and weight for every exercise, every session
+- **Automatic 1RM estimation**: Epley formula applied in real time
+- **Load progression tracker**: session by session, per exercise
+- **Volume per session**: total tonnage with rolling 3-session average
+- **Personal Records log**: auto-calculated estimated 1RM for each PR
+- **Progress charts**: visual load trend over time
 
 No configuration. No formulas to write. Just talk to the AI.
 
@@ -61,7 +61,7 @@ No configuration. No formulas to write. Just talk to the AI.
 
 > The `.skill` file contains structured instructions you can paste directly into a Custom GPT or a ChatGPT conversation.
 
-**Option A — Paste into a conversation:**
+**Option A: Paste into a conversation:**
 
 1. Download the `.skill` file
 2. Open it with any text editor (Notepad, TextEdit, VS Code)
@@ -70,7 +70,7 @@ No configuration. No formulas to write. Just talk to the AI.
 5. Start a new conversation, paste the content and press Enter
 6. Follow up with: *"Now create a gym tracker for my workout program"*
 
-**Option B — Create a Custom GPT:**
+**Option B: Create a Custom GPT:**
 
 1. Go to [chat.openai.com/gpts](https://chat.openai.com/gpts) → **Create**
 2. Click **Configure**
@@ -127,7 +127,7 @@ The generated Excel includes up to 5 sheets depending on your selections:
 
 ## Credits
 
-Built by **Martino** — [@neuralcoffe](https://instagram.com/neuralcoffe) on Instagram.
+Built by **Martino**: [@neuralcoffe](https://instagram.com/neuralcoffe) on Instagram.
 
 Every week: one concrete AI skill or tool you can use the next day — not theory, not hype.
 
