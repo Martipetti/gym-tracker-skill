@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/gym-tracker-logo.png" alt="Gym Tracker Skill Logo" width="160"/>
+  <img src="gym-tracker-logo.png" alt="Gym Tracker Skill Logo" width="160"/>
 
   <h1>gym-tracker</h1>
 
