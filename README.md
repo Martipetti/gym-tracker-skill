@@ -36,8 +36,8 @@ No configuration. No formulas to write. Just talk to the AI.
 
 | Language | File | Download |
 |---|---|---|
-| 🇮🇹 Italiano | `it/gym-excel-tracker-it.skill` | [Download](it/gym-excel-tracker-it.skill) |
-| 🇬🇧 English | `en/gym-excel-tracker-en.skill` | [Download](en/gym-excel-tracker-en.skill) |
+| 🇮🇹 Italiano | `it/gym-excel-tracker-it.skill` | [Download](gym-excel-tracker-it.skill) |
+| 🇬🇧 English | `en/gym-excel-tracker-en.skill` | [Download](gym-excel-tracker-en.skill) |
 
 ---
 
