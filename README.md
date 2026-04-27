@@ -53,7 +53,7 @@ No configuration. No formulas to write. Just talk to the AI.
 4. Click **Upload skill** and select the `.skill` file
 5. Done — the skill is now active in your conversations
 
-**To use it:** just type something like *"create a gym tracker for my workout program"* and follow the questions. Claude will ask about your schedule, exercises, and what you want to track — then generate the Excel file automatically.
+**To use it:** just type something like *"create a gym tracker for my workout program"* and follow the questions. Claude will ask about your schedule, exercises, and what you want to track, then generate the Excel file automatically.
 
 ---
 
@@ -87,16 +87,16 @@ No configuration. No formulas to write. Just talk to the AI.
 
 When you activate the skill, the AI walks you through 3 steps before generating anything:
 
-**Step 1 — Schedule structure**
+**Step 1: Schedule structure**
 It asks how many training days you have: Full Body, A/B split, A/B/C, or A/B/C/D.
 
-**Step 2 — What to track**
+**Step 2: What to track**
 You choose what to monitor per exercise: sets/reps, weight, estimated 1RM, RPE/RIR notes, time under tension.
 
-**Step 3 — Analytics features**
+**Step 3: Analytics features**
 You pick the extra sheets you want: load progression, session volume, progress charts, personal records log, rolling average.
 
-After that, you paste your exercise list — informally, exactly as you'd write it — and the skill generates a summary for you to confirm before producing the final file.
+After that, you paste your exercise list, informally, exactly as you'd write it — and the skill generates a summary for you to confirm before producing the final file.
 
 ---
 
