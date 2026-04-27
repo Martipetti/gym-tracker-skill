@@ -100,21 +100,6 @@ After that, you paste your exercise list — informally, exactly as you'd write 
 
 ---
 
-## Repo structure
-
-```
-gym-tracker/
-├── assets/
-│   └── gym-tracker-logo.png
-├── it/
-│   └── gym-excel-tracker-it.skill
-├── en/
-│   └── gym-excel-tracker-en.skill
-└── README.md
-```
-
----
-
 ## Requirements
 
 | | Claude | ChatGPT |
